@@ -32,3 +32,4 @@ fahrzeugtyp = temp_farbe
 print("\nNach dem Tausch:")
 print(f"Farbe: {farbe}")
 print(f"Fahrzeugtyp: {fahrzeugtyp}")
+print("hier bitte Karsten")
