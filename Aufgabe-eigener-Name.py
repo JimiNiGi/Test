@@ -3,7 +3,7 @@ daten = {
     "Alter": 33,
     "Geschlecht": "männlich",
     "Größe": "1,83m",
-    "Gewicht": "72kg",
+    "Gewicht": "72",
     "Augenfarbe": "blau",
     "Haarfarbe": "blond",
     "Beruf": "System Administrator",
